@@ -2,12 +2,11 @@
 
 ## Overview
 
-![top](https://github.com/thiagofcm/Modbus_Slave_RICA2/assets/22446244/59fe58fa-516b-4ef8-8a13-136468b99227)
+![top](https://github.com/thiagofcm/Modbus_Slave_RICA2/blob/main/Images/top.jpeg)
 
 
-This project, developed for the discipline of Industrial Networks II, focuses on the development and implementation of aremote device part of an industrial control system dedicated to the pasteurization of beverages. The system was succesfull connected on a real industrial environment and communicate with a Profinet and Modbus TCP network, facilitated by thePLC Siemens S7-1200 PLC.
+This project, developed for the Networks 2 course, focuses on the implementation of network protocols in an industrial control system dedicated to the pasteurization of beverages. The primary objective is to achieve seamless integration between Profinet and Modbus TCP protocols, facilitated by the Siemens S7-1200 PLC.
 
-The aim was to, throught this remote system, simulate a device in the factory floor, responsible for monitor and control the temperature of a tank containing liquid to be pausterized 
 ## Features
 
 - **Multiprotocol Integration:** The project showcases the coexistence of Profinet and Modbus TCP protocols within an industrial setting, providing a comprehensive solution for network communication.
