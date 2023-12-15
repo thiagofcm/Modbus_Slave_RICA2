@@ -1,4 +1,4 @@
-# Industrial Control System for Beverage Pasteurization
+# Modbus Slave applied for an industrial Control System for Beverage Pasteurization
 
 ## Overview
 
