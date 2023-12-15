@@ -4,8 +4,7 @@
 
 ![top](https://github.com/thiagofcm/Modbus_Slave_RICA2/blob/main/Images/top.jpeg)
 
-
-This project, developed for the Industrial Networks II discipline, focuses on the implementation of network protocols in an industrial control system dedicated to the pasteurization of beverages. We developed our own Modbus Slave which was connected to the Siemens S7-1200 PLC, that was connected to a Profinet network. The primary objective was to achieve seamless integration between Profinet and Modbus TCP protocols, connecting our device, a three-phase motor/inverter and the Siemens S7-1200 PLC.
+This project, created for the Industrial Networks II course, emphasizes the implementation of network protocols in an industrial control system dedicated to beverage pasteurization. We designed a custom Modbus Slave that interfaced with the Siemens S7-1200 PLC, itself connected to a Profinet network. The main goal was to achieve smooth integration between Profinet and Modbus TCP protocols, facilitating the connection of our device and a three-phase motor/inverter, with the Siemens S7-1200 PLC.
 
 ## Features
 
