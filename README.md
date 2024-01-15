@@ -17,4 +17,4 @@ This project, created for the Industrial Networks II course, emphasizes the impl
 - **Practical Application:** Emphasizing the practical application of network protocols, the project addresses real-world industrial challenges, specifically in the context of beverage pasteurization.
 
 ## Contributing
-We welcome contributions from the community to enhance and expand the functionality of this industrial control system. Please refer to our Contribution Guidelines for more details.
+We welcome contributions from the community to enhance and expand the functionality of this industrial control system. Please refer to our Contribution Guidelines for more details..
